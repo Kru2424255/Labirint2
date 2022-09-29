@@ -1,9 +1,3 @@
-/*
- * main.cc
- *
- *  Created on: 17 мая 2022 г.
- *      Author: serge
- */
 
 #include <iostream>
 #include <SDL2/SDL_main.h>

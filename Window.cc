@@ -1,9 +1,4 @@
-/*
- * Window.cc
- *
- *  Created on: 17 мая 2022 г.
- *      Author: serge
- */
+
 
 #include <stdexcept>
 #include <string>
@@ -18,7 +13,7 @@
 
 void Window::create_window() {
 	_window = std::shared_ptr<SDL_Window>(
-			SDL_CreateWindow("SuperWindowTwo", SDL_WINDOWPOS_CENTERED,
+			SDL_CreateWindow("Genshin Impact", SDL_WINDOWPOS_CENTERED,
 					SDL_WINDOWPOS_CENTERED, _width, _height,
 					SDL_WINDOW_OPENGL),
 			SDL_DestroyWindow);
@@ -57,8 +52,8 @@ Window::Window(int w, int h): _width(w), _height(h) {
 	create_gl_context();
 	setup_gl();
 	_wall_tex = std::make_shared<texture>("kirpich.jpg");
-	_sky_tex = std::make_shared<texture>("sky.jpg");
-	_road_tex = std::make_shared<texture>("doski.jpg");
+	_sky_tex = std::make_shared<texture>("nebo.jpg");
+	_road_tex = std::make_shared<texture>("pol.jpg");
 	_map = std::make_shared<Map>("map01.txt");
 	_player = std::make_shared<Player>();
 	_player->spawn(_map);

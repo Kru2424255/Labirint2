@@ -1,9 +1,4 @@
-/*
- * Map.cc
- *
- *  Created on: 17 мая 2022 г.
- *      Author: serge
- */
+
 
 #include <fstream>
 #include <stdexcept>

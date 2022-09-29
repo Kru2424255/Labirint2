@@ -1,9 +1,4 @@
-/*
- * Map.h
- *
- *  Created on: 17 мая 2022 г.
- *      Author: serge
- */
+
 
 #ifndef MAP_H_
 #define MAP_H_

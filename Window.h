@@ -1,9 +1,4 @@
-/*
- * Window.h
- *
- *  Created on: 17 мая 2022 г.
- *      Author: serge
- */
+
 
 #ifndef WINDOW_H_
 #define WINDOW_H_

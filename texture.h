@@ -1,9 +1,4 @@
-/*
- * texture.h
- *
- *  Created on: 17 мая 2022 г.
- *      Author: serge
- */
+
 
 #ifndef TEXTURE_H_
 #define TEXTURE_H_

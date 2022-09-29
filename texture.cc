@@ -1,9 +1,3 @@
-/*
- * texture.cc
- *
- *  Created on: 17 мая 2022 г.
- *      Author: serge
- */
 
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>

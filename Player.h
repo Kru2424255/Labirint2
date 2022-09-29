@@ -1,9 +1,4 @@
-/*
- * Player.h
- *
- *  Created on: 17 мая 2022 г.
- *      Author: serge
- */
+
 
 #ifndef PLAYER_H_
 #define PLAYER_H_

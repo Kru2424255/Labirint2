@@ -1,9 +1,4 @@
-/*
- * Player.cc
- *
- *  Created on: 17 мая 2022 г.
- *      Author: serge
- */
+
 
 #include <cmath>
 #include "Player.h"
